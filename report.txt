@@ -1,14 +1,14 @@
-Tue Jan 19 16:36:59 UTC 2021
+Tue Jan 19 16:47:11 UTC 2021
 
  Scan nmap: 
 
 
-Starting Nmap 6.40 ( http://nmap.org ) at 2021-01-19 16:36 UTC
+Starting Nmap 6.40 ( http://nmap.org ) at 2021-01-19 16:47 UTC
 Nmap scan report for 192.168.100.1
-Host is up (0.0060s latency).
+Host is up (0.0066s latency).
 Nmap scan report for 192.168.100.20
-Host is up (0.0040s latency).
-Nmap done: 256 IP addresses (2 hosts up) scanned in 2.99 seconds
+Host is up (0.012s latency).
+Nmap done: 256 IP addresses (2 hosts up) scanned in 3.07 seconds
 
  Scan speedtest: 
 
@@ -16,8 +16,8 @@ Retrieving speedtest.net configuration...
 Testing from Beltelecom (178.127.198.100)...
 Retrieving speedtest.net server list...
 Selecting best server based on ping...
-Hosted by Mobile TeleSystems JLLC (Minsk) [0.28 km]: 7.205 ms
+Hosted by JLLC "COSMOS TV" (Minsk) [0.28 km]: 7.491 ms
 Testing download speed................................................................................
-Download: 80.23 Mbit/s
+Download: 93.36 Mbit/s
 Testing upload speed................................................................................................
-Upload: 57.87 Mbit/s
+Upload: 57.13 Mbit/s
