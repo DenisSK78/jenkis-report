@@ -1,14 +1,14 @@
-Tue Jan 19 16:07:40 UTC 2021
+Tue Jan 19 16:28:36 UTC 2021
 
  Scan nmap: 
 
 
-Starting Nmap 6.40 ( http://nmap.org ) at 2021-01-19 16:07 UTC
+Starting Nmap 6.40 ( http://nmap.org ) at 2021-01-19 16:28 UTC
 Nmap scan report for 192.168.100.1
-Host is up (0.0066s latency).
+Host is up (0.0080s latency).
 Nmap scan report for 192.168.100.20
-Host is up (0.0028s latency).
-Nmap done: 256 IP addresses (2 hosts up) scanned in 3.06 seconds
+Host is up (0.0050s latency).
+Nmap done: 256 IP addresses (2 hosts up) scanned in 3.08 seconds
 
  Scan speedtest: 
 
@@ -16,8 +16,8 @@ Retrieving speedtest.net configuration...
 Testing from Beltelecom (178.127.198.100)...
 Retrieving speedtest.net server list...
 Selecting best server based on ping...
-Hosted by Beltelecom Minsk branch (Minsk) [0.28 km]: 9.209 ms
+Hosted by Mobile TeleSystems JLLC (Minsk) [0.28 km]: 8.017 ms
 Testing download speed................................................................................
-Download: 93.13 Mbit/s
+Download: 82.89 Mbit/s
 Testing upload speed................................................................................................
-Upload: 0.00 Mbit/s
+Upload: 51.22 Mbit/s
